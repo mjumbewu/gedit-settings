@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+   <mime-type type="text/restructured">
+     <comment>reStructuredText</comment>
+<!--     <magic priority="50">-->
+<!--       <match value="search-string" type="string" offset="10:140"/>-->
+<!--     </magic>-->
+     <glob pattern="*.rst"/>
+   </mime-type>
+</mime-info>
